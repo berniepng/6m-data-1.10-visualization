@@ -3,7 +3,7 @@
 
 **Goal:** Arrive at class with core vocabulary and concepts. No deep dives—just enough to understand WHY design matters.
 
-**Watch This Video:** [[Turning Data into Stories]](https://youtu.be/UIhIz_cF1Ck)
+**🎬 Watch This Video:** [Turning Data into Stories](https://youtu.be/UIhIz_cF1Ck)
 ---
 
 ## A.1: The Three Pillars of Visualization (10 mins)
